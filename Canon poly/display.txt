@@ -1,0 +1,16 @@
+0, off-score;
+1, right;
+2, off-score;
+3, good;
+4, off-score;
+5, keep;
+6, off-score;
+7, keep it;
+8, off-score;
+9, good;
+10, off-score;
+11, Wonderful;
+12, off-score;
+13, Perfect;
+14, off-score;15, Amazing;
+16, off-score;
