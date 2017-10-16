@@ -2,12 +2,12 @@
 ## Intro
 We construct a comprehensive system and show how
 it works with detailed theoretical induction, including
-score follower training/decoding and score accompanist.
+score follower training/decoding and score accompanist. The detail can be found in [Paper](http://anyirao.com/papers/Report%20Automatic%20Music%20Accompanist.pdf).
 
 We propose a fast decoding algorithm, reduced computational
 complexity.
 It is able to work in real time with practical length
-scores
+scores.
 We build up two hands parallel HMM to improve
 accuracy and computational speed.
 
